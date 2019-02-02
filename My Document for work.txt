@@ -1,4 +1,2 @@
-First commit
-Second commit
-Third commit
-4 commit. Start a new problem
+1 commit
+2 commit
